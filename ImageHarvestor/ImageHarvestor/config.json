@@ -1,0 +1,16 @@
+{
+  "maxToPull": 10,
+  "zoomLevel":16,
+  "destinationFile":{
+    "streetMap": "./images-16/streetmap",
+    "satellitMap": "./images-16/aerial"
+  },
+  "url":{
+    "streetMap": "https://tiles.wmflabs.org/osm-no-labels/<zoom>/<x>/<y>.png",
+    "satMap": [
+      "https://ecn.t1.tiles.virtualearth.net/tiles/a<cftid>.jpeg?g=10993",
+      "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/<zoom>/<y>/<x>.jpg",
+      "https://2.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/<zoom>/<x>/<y>/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&token=djPZyynKsbTjIUDOBcHZ2g&lg=ENG"
+    ]
+  }
+}

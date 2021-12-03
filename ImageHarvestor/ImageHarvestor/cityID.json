@@ -1,0 +1,161 @@
+{
+    "cities": [
+        {
+            "name": "Seattle",
+            "x": 5244,
+            "xMax":45,
+            "y":11398,
+            "yMax": 81
+        },
+        {
+            "name": "Portland",
+            "x": 5191,
+            "xMax": 61,
+            "y": 11708,
+            "yMax":44 
+        },
+        {
+            "name": "SF",
+            "x": 5233,
+            "xMax": 76,
+            "y":12649,
+            "yMax": 79
+        },
+        {
+            "name": "LA",
+            "x": 5586,
+            "xMax": 226,
+            "y": 13058,
+            "yMax": 71
+        },
+        {
+            "name": "Dallas",
+            "x": 7500,
+            "xMax": 81,
+            "y": 13172,
+            "yMax": 49
+        },
+        {
+            "name": "Indinnapolis",
+            "x": 7869,
+            "xMax": 65,
+            "y": 11756,
+            "yMax": 67
+        },
+        {
+            "name": "Chicago",
+            "x": 8338,
+            "xMax": 96,
+            "y": 12118,
+            "yMax": 120
+        },
+        {
+            "name": "Virginia",
+            "x": 9338,
+            "xMax": 123,
+            "y": 12470,
+            "yMax": 105
+        },
+        {
+            "name": "Miami",
+            "x": 9072,
+            "xMax": 15,
+            "y": 13848,
+            "yMax": 115
+        },
+        {
+            "name": "DC",
+            "x": 9468,
+            "xMax": 115,
+            "y":12358,
+            "yMax": 141
+        },
+        {
+            "name": "NYC",
+            "x": 9615,
+            "xMax": 65,
+            "y": 12284,
+            "yMax": 50
+        }
+    ],
+
+    "cities16": [
+        {
+            "name": "Seattle",
+            "x": 10488,
+            "xMax":55,
+            "y":22824,
+            "yMax": 135
+        },
+        {
+            "name": "Portland",
+            "x": 10394,
+            "xMax": 118,
+            "y": 23374,
+            "yMax":102 
+        },
+        {
+            "name": "SF",
+            "x": 10454,
+            "xMax": 155,
+            "y":25283,
+            "yMax": 177
+        },
+        {
+            "name": "LA",
+            "x": 11180,
+            "xMax": 273,
+            "y": 26093,
+            "yMax": 177
+        },
+        {
+            "name": "Dallas",
+            "x": 15032,
+            "xMax": 121,
+            "y": 26392,
+            "yMax": 71
+        },
+        {
+            "name": "Indinnapolis",
+            "x": 15747,
+            "xMax": 122,
+            "y": 23536,
+            "yMax": 111
+        },
+        {
+            "name": "Chicago",
+            "x": 16680,
+            "xMax": 191,
+            "y": 24205,
+            "yMax": 258
+        },
+        {
+            "name": "Virginia",
+            "x": 18696,
+            "xMax": 79,
+            "y": 25024,
+            "yMax": 78
+        },
+        {
+            "name": "Miami",
+            "x": 18168,
+            "xMax": 12,
+            "y": 27721,
+            "yMax": 188
+        },
+        {
+            "name": "DC",
+            "x": 19024,
+            "xMax": 87,
+            "y":24776,
+            "yMax": 95
+        },
+        {
+            "name": "NYC",
+            "x": 19226,
+            "xMax": 245,
+            "y": 24574,
+            "yMax": 61
+        }
+    ]
+}

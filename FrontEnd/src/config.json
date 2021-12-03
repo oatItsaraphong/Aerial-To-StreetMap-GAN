@@ -1,0 +1,38 @@
+{
+    "title": "Street Map Generation from Aerial Satellite Imagery",
+    "defaultCity": {
+        "ny":{
+          "lat":40.8,
+          "long":-73.9
+        },
+        "fullerton":{
+          "lat":33.877,
+          "long":-117.911
+        }
+    },
+    "nodeServer": "http://localhost:5000/getmapimage",
+    "cityCoord": [
+        { 
+            "label": "New York",
+            "value":{
+                "lat":40.8,
+                "lng":-73.9
+            }
+        },
+        {
+            "label": "Fullerton",
+            "value":{
+                "lat":33.877,
+                "lng":-117.911
+            }
+        }
+    ],
+    "mapTypeValue": [
+        { "value": "aerial:0", "label": "Aerial" },
+        { "value": "street:0", "label": "Street" },
+        { "value": "gan:15", "label": "GAN v15" },
+        { "value": "gan:28", "label": "GAN v28" },
+        { "value": "gan:31", "label": "GAN v31" },
+        { "value": "gan:16", "label": "GAN v16" }
+    ]
+}

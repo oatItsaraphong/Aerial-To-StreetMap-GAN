@@ -1,0 +1,12 @@
+{
+    "name": "template-bench",
+    "version": "0.0.1",
+    "dependencies": {
+        "fetch": "^1.1.0",
+        "http": "0.0.1-security",
+        "steam": "^1.4.1",
+        "request": "^2.88.2",
+        "globby": "^12.0.2",
+        "png-to-jpeg": "^1.0.1"
+    }
+}
